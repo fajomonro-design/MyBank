@@ -1,1 +1,28 @@
+Présentation du projet:
 
+YBank est une plateforme bancaire innovante conçue pour offrir une expérience utilisateur simplifiée et sécurisée. Ce projet vise à développer un écosystème complet permettant de simuler la gestion de comptes bancaires en temps réel, 
+incluant des interfaces dédiées aux clients ainsi qu'une console d'administration pour la gestion du système.
+
+Équipe et Rôles:
+
+L'équipe est composée :
+
+Ian : A voir.
+
+Louis : A voir
+
+
+
+Fonctionnalités prévues:
+
+- Côté Client
+Authentification sécurisée : Connexion aux comptes avec protection des données.
+
+Tableau de bord : Consultation du solde et suivi des comptes en temps réel.
+
+Gestion des flux : Historique détaillé des transactions et exécution de virements.
+
+- Côté Administration
+Gestion du parc client : Création, suspension et modification des comptes utilisateurs.
+
+Audit système : Surveillance globale des mouvements et des opérations bancaires.
