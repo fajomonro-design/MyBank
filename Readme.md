@@ -34,3 +34,37 @@ Supervision : Voir la liste des clients et l'état de leurs comptes.
 Statistiques : Consulter des informations globales comme le nbr de client
 
 Audit système : Surveillance globale des mouvements et des opérations bancaires.
+
+
+Liste des boutons Client
+
+Boutons première page :
+
+Se connecter / Se déconnecter
+
+Mot de passe oublié ?
+
+Espace Client
+
+Boutons Espace Client :
+
+Nouveau virement
+
+Voir le détail 
+
+Modifier mes informations
+
+Imprimer RIB
+
+Contacter mon conseiller
+
+
+Boutons "Espace Administrateur" :
+
+Ajouter un client
+
+Rechercher un client (Barre de recherche + bouton)
+
+Bloquer le compte 
+
+Valider / Annuler pour les modifications
