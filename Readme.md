@@ -22,7 +22,15 @@ Tableau de bord : Consultation du solde et suivi des comptes en temps réel.
 
 Gestion des flux : Historique détaillé des transactions et exécution de virements.
 
+profil : Mettre à jour son adresse ou son mot de passe.
+
+Téléchargement : Télécharger un RIB ou un relevé de compte en PDF.
+
 - Côté Administration
 Gestion du parc client : Création, suspension et modification des comptes utilisateurs.
+
+Supervision : Voir la liste des clients et l'état de leurs comptes.
+
+Statistiques : Consulter des informations globales comme le nbr de client
 
 Audit système : Surveillance globale des mouvements et des opérations bancaires.
