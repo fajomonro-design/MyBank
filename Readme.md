@@ -7,11 +7,11 @@ incluant des interfaces dédiées aux clients ainsi qu'une console d'administrat
 
 L'équipe est composée :
 
-Ian : A voir.
+Ian : S'occupe de la table ADMINISTRATEUR, de la page de login, et du tableau de bord Admin 
 
-Louis : A voir
+Louis : s' occupe de la structure SQL, de la table COMPTE et OPERATION. Il prépare les requêtes complexes pour l'historique. S'assurer que les liens entre ces tables marchent. Le client aura des besoins précis.
 
-Gaetan : A voir
+Gaetan : S'occupe de l'espace CLIENT : design des pages, affichage joli des soldes, formulaire de virement.
 
 Fonctionnalités prévues:
 
